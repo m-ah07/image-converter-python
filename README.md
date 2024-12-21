@@ -48,16 +48,17 @@ python src/image_converter.py images/example.jpg images/example.png
 This will convert `example.jpg` to `example.png` and save it in the same directory.
 
 ## Directory Structure
-
-image-converter-python/                                                                                                                
-├── src/                                                                                                            
-│   └── image_converter.py  # Main conversion script                                                                                            
-├── images/                 # Folder for input and output images                                                            
-├── examples/                                                                                                
-│   └── example.py          # Example usage of the script                                                                            
-├── requirements.txt        # Dependencies                                                                                
-├── .gitignore                                                                                                    
-└── README.md                                                                                            
+```plaintext
+image-converter-python/
+├── src/
+│   └── image_converter.py  # Main conversion script
+├── images/                 # Folder for input and output images
+├── examples/
+│   └── example.py          # Example usage of the script
+├── requirements.txt        # Dependencies
+├── .gitignore
+└── README.md
+```
 
 ## Contributing
 
