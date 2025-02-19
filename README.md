@@ -18,7 +18,7 @@ Image Converter - Python is a lightweight Python script that enables users to co
 
 1. Clone or download the repository:
     ```bash
-    git clone https://github.com/marwan-ahmed-23/image-converter-python.git
+    git clone https://github.com/m-ah07/image-converter-python.git
     cd image-converter-python
     ```
 
